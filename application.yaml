@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default # The Argo CD Project this application belongs to
   source:
-    repoURL: https://github.com/daws-84s/catalogue-cd.git
+    repoURL: https://github.com/Shan23-hash/catalogue-cd.git
     targetRevision: main
     path: .
     helm:
